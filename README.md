@@ -39,6 +39,7 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=7b95ad&color=141422)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=7b95ad&color=141422)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=7b95ad&color=141422)
+![Socket](https://img.shields.io/badge/SocketIO?style=for-the-badge&logo=Socket.io&logoColor=7b95ad&color=141422)
 
 
 
