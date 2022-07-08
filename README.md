@@ -14,13 +14,12 @@
 - ⚡ Fun fact: I am an identical twin
 
 ## Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/ElanKatz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/)
+[<img src="https://img.shields.io/badge/Elan%20Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/)
 
 ## Skills
 
 <!-- https://simpleicons.org/ -->
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=7b95ad&color=141422)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-100?style=for-the-badge&logo=visual-studio-code&logoColor=7b95ad&color=141422)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100?style=for-the-badge&logo=javascript&logoColor=7b95ad&color=141422)
 ![React](https://img.shields.io/badge/React-100?style=for-the-badge&logo=React&logoColor=7b95ad&color=141422)
 ![ReactRouter](https://img.shields.io/badge/React_Router-100?style=for-the-badge&logo=react-router&logoColor=7b95ad&color=141422)
