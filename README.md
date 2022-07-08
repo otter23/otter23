@@ -50,14 +50,15 @@
 <div align="center">
 
    <a href="https://github.com/otter23/otter23">
-      <img align="center" height="180" alt="Elan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_title=false" />
+      <img align="center" height="150" alt="Elan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_title=false" />
    
    <!--  <img align="center" alt="Elan's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" /> -->
-   <!--  <img align="center" height="180"  alt="Elan's stats" src="https://github-readme-stats.vercel.app/api?username=otter23&count_private=true&include_all_commits=true&theme=tokyonight"  /> -->
+   <!--  <img align="center" height="150"  alt="Elan's stats" src="https://github-readme-stats.vercel.app/api?username=otter23&count_private=true&include_all_commits=true&theme=tokyonight"  /> -->
    </a>
 
+
    <a href="https://github.com/otter23/otter23">
-      <img align="center" height="180" alt="Elan's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=otter23&theme=tokyonight"/>
+      <img align="center" height="150" alt="Elan's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=otter23&theme=tokyonight"/>
    </a>
 
    <div style='font-size: 5px;'>&nbsp;</div>
