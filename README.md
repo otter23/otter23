@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" />
 </a>
 <a href="https://github.com/otter23/otter23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otter32&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" alt="Elan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" alt="Elan's GitHub Stats" />
 </a>
 
 
