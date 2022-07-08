@@ -13,6 +13,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an identical twin
 
+### Connect With Me 🤝🤝
+[<img src="https://img.shields.io/badge/ElanKatz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/)
+
 ## Skills
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=7b95ad&color=141422)
