@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I am an identical twin
 
 ### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/Elan%Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/)
+[<img src="https://img.shields.io/badge/Elan-Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/)
 
 ## Skills
 
