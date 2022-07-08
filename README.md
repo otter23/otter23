@@ -46,27 +46,27 @@
 
 ## GitHub Stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats-->
 <div align="center">
-<a href="https://github.com/otter23/otter23">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_title=false" height="190" alt="Elan's Github Stats"/>
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" alt="Elan's GitHub Stats" /> -->
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otter23&count_private=true&include_all_commits=true&theme=tokyonight" height="165"  alt="Elan's stats" /> -->
-</a>
+   <a href="https://github.com/otter23/otter23">
+    <img align="center" height="190" alt="Elan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_title=false" />
+   <!--  <img align="center" alt="Elan's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=otter23&show_icons=true&line_height=27&count_private=true&hide_title=false&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" /> -->
+   <!--  <img align="center" height="165"  alt="Elan's stats" src="https://github-readme-stats.vercel.app/api?username=otter23&count_private=true&include_all_commits=true&theme=tokyonight"  /> -->
+   </a>
 
-<a href="https://github.com/otter23/otter23">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otter23&theme=tokyonight" height="190" alt="Elan's github streak"/>
-</a>
-  
-<div style='font-size: 5px;'>&nbsp;</div>
+   <a href="https://github.com/otter23/otter23">
+     <img align="center" height="190" alt="Elan's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=otter23&theme=tokyonight"/>
+   </a>
 
-<!-- https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
-<a align="center" href="https://github.com/otter23/otter23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&layout=compact&hide=shell" alt="Elan's top language stats" />
-<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" /> -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&hide_langs_below=1" alt="Elan's top language stats" /> -->
+   <div style='font-size: 5px;'>&nbsp;</div>
 
-</a>
-  </div>
+   <a align="center" href="https://github.com/otter23/otter23">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&layout=compact&hide=shell" alt="Elan's top language stats" />
+   <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=otter23&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" /> -->
+   <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&hide_langs_below=1" alt="Elan's top language stats" /> -->
+
+   </a>
+</div>
 
 <!-- ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=otter23&theme=tokyonight) -->
 
