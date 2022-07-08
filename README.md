@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on building out Slackluster
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about ...
-- 📫 How to reach me: elanktz@gmail.com
+- 📫 How to reach me: [linkedIn]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an identical twin
 
