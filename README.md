@@ -64,7 +64,7 @@
    <div style='font-size: 5px;'>&nbsp;</div>
 
    <a align="center" href="https://github.com/otter23/otter23">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&layout=compact&hide=shell" alt="Elan's top language stats" />
+<!--        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&layout=compact&hide=shell" alt="Elan's top language stats" /> -->
    
    <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=otter23&title_color=7B95AD&text_color=b2c7da&icon_color=7B95AD&bg_color=141422" /> -->
    <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otter23&theme=tokyonight&hide_langs_below=1" alt="Elan's top language stats" /> -->
