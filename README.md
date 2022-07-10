@@ -1,20 +1,19 @@
-## Hey there, I'm Elan Katz!
+## Hey there 👋
 
-### I'm a full stack software engineer based in Oakland, California.
-#### xxx
+### I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization.
+### Outisde of coding I enjoy cooking, photography, and exploring the great outdoors.
 
-
-
-- 👨‍💻 Check out my [portfolio] or connect with me on [linkedIn]
-- 🔭 I’m currently working on building out Slackluster
+- 👨‍💻 Check out my [portfolio]
+- 🔭 I’m currently working on building out [Slackluster]
 - 👯 I’m looking to collaborate on anything
-- 💬 Ask me about ...
-- 📫 How to reach me: [linkedIn]
+- 📫 How to reach me: on [linkedIn] or at elankatz@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an identical twin
+<!-- - 💬 Ask me about ...    |  or connect with me on [linkedIn]-->
 
+<!--
 ## Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/Elan%20Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/)
+[<img src="https://img.shields.io/badge/Elan%20Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/) -->
 
 ## Skills
 
@@ -80,3 +79,5 @@
 
 [portfolio]: https://elankatz.me
 [linkedIn]: https://www.linkedin.com/in/elankatz/
+[email]: elankatz@gmail.com
+[Slackluster]: https://slackluster.herokuapp.com/
