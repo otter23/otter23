@@ -5,7 +5,7 @@
 - 👨‍💻 Check out my [portfolio]
 - 🔭 I’m currently working on building out [Slackluster]
 - 👯 I’m looking to collaborate on anything
-- 📫 How to reach me: on [linkedIn] or at elankatz@gmail.com
+- 📫 You can reach me: on [linkedIn] or at elankatz@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an identical twin
 <!-- - 💬 Ask me about ...    |  or connect with me on [linkedIn]-->
