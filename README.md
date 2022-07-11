@@ -3,7 +3,7 @@
 I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization. Outisde of coding I enjoy cooking, photography, and exploring the great outdoors.
 
 - 👨‍💻 Check out my [portfolio]
-- 🔭 I’m currently working on building out mor features on my projects [Slackluster] and [Northrn Flickr]
+- 🔭 I’m currently working on building out more features on my projects: [Slackluster] and [Northrn Flickr]
 - 📖 I am always looking to learn new technologies and expand my knowledge
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my experience with App Academy and transitioning from consulting to software engineering
