@@ -4,6 +4,7 @@
 
 - 👨‍💻 Check out my [portfolio]
 - 🔭 I’m currently working on building out [Slackluster]
+- 📖 I am always looking to learn new technologies and expand my knowledge
 - 👯 I’m looking to collaborate on anything
 - 📫 You can reach me: on [linkedIn] or at elankatz@gmail.com
 - 😄 Pronouns: he/him
