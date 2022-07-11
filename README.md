@@ -1,21 +1,22 @@
-## Hey there 👋
+## Hey There 👋
 
- I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization. Outisde of coding I enjoy cooking, photography, and exploring the great outdoors.
+I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization. Outisde of coding I enjoy cooking, photography, and exploring the great outdoors.
 
 - 👨‍💻 Check out my [portfolio]
-- 🔭 I’m currently working on building out [Slackluster]
+- 🔭 I’m currently working on building out mor features on my projects [Slackluster] and [Northrn Flickr]
 - 📖 I am always looking to learn new technologies and expand my knowledge
 - 👯 I’m looking to collaborate on anything
+- 💬 Ask me about my experience with App Academy and transitioning from consulting to software engineering
 - 📫 You can reach me: on [linkedIn] or at elankatz@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an identical twin
-<!-- - 💬 Ask me about ...    |  or connect with me on [linkedIn]-->
+<!-- or connect with me on [linkedIn]-->
 
 <!--
 ## Connect With Me 🤝🤝
 [<img src="https://img.shields.io/badge/Elan%20Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/) -->
 
-## Skills
+## Skills and Technologies
 
 <!-- https://simpleicons.org/ -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-100?style=for-the-badge&logo=visual-studio-code&logoColor=7b95ad&color=141422)
@@ -81,3 +82,6 @@
 [linkedIn]: https://www.linkedin.com/in/elankatz/
 [email]: elankatz@gmail.com
 [Slackluster]: https://slackluster.herokuapp.com/
+[Northrn Flickr]: https://northrn-flickr.herokuapp.com/
+[Lofidelity]: https://lofidelity.herokuapp.com/
+[Good Hikes]: https://good-hikes.herokuapp.com/
