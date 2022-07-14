@@ -1,6 +1,6 @@
 ## Hey There 👋
 
-I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization. Outisde of coding I enjoy cooking, photography, and exploring the great outdoors.
+I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization. Outside of coding I enjoy cooking, photography, and exploring the great outdoors.
 
 - 👨‍💻 Check out my [portfolio]
 - 🔭 I’m currently working on building out more features on my projects: [Slackluster] and [Northrn Flickr]
