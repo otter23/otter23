@@ -1,20 +1,35 @@
 ## Hey There 👋
 
-I'm Elan Katz, a full stack software engineer who loves problem solving, building, organizing and optimization. Outside of coding I enjoy cooking, photography, and exploring the great outdoors.
+I'm Elan Katz, a full stack software engineer who enjoys problem solving and collaborating on projects with tangible impacts on people’s lives. Outside of coding I enjoy cooking, photography, yoga, and exploring the great outdoors.
 
 - 👨‍💻 Check out my [portfolio]
 - 🔭 I’m currently working on building out more features on my projects: [Slackluster] and [Northrn Flickr]
-- 📖 I am always looking to learn new technologies and expand my knowledge
+- 📖 I am always interested in learning new technologies and expanding my knowledge
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my experience with App Academy and transitioning from consulting to software engineering
-- 📫 You can reach me: on [linkedIn] or at elankatz@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an identical twin
+
+<!-- - 📫 You can reach me: on [linkedIn] or at elankatz@gmail.com -->
 <!-- or connect with me on [linkedIn]-->
 
-<!--
-## Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/Elan%20Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/) -->
+## Connect with me 🤝🤝
+  
+<a href="https://www.linkedin.com/in/elankatz/" target="_blank">
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://angel.co/u/elankatz" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+ </a>
+<a href="mailto:elankatz@gmail.com" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- [<img src="https://img.shields.io/badge/Elan%20Katz-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elankatz/) -->
+<br>
+
+**************
+
 
 ## Skills and Technologies
 
@@ -42,6 +57,37 @@ I'm Elan Katz, a full stack software engineer who loves problem solving, buildin
 ![Git](https://img.shields.io/badge/Git-100?style=for-the-badge&logo=git&logoColor=7b95ad&color=141422)
 ![Github](https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github&logoColor=7b95ad&color=141422)
 ![Socket.io](https://img.shields.io/badge/Socket.io-100?style=for-the-badge&logo=socket.io&logoColor=7b95ad&color=141422)
+
+<!--
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=%23F7DF1E&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+ -->
+
+## Projects:
+
+<a href="https://slackluster.herokuapp.com/" target="_blank" rel="noopener noreferrer">Slackluster</a> - Slack clone (Solo) <br />
+<a href="https://lofidelity.herokuapp.com/" target="_blank" rel="noopener noreferrer">Lofidelity</a> - Bandcamp inspired (Group) <br />
+<a href="https://northrn-flickr.herokuapp.com/" target="_blank" rel="noopener noreferrer">Northrn Flickr</a> -  Flickr clone (Solo) <br />
+<a href="https://good-hikes.herokuapp.com/" target="_blank" rel="noopener noreferrer">Good Hikes</a> - GoodReads and AllTrails inspired (Group) <br />
 
 
 ## GitHub Stats
